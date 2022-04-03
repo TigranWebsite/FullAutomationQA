@@ -1,0 +1,1 @@
+{"uuid":"9f5ee412-20bb-419c-bdb4-e5bc77438539","name":"tests.seleniumTests.TestMercouriPayment","children":["e069d41d-c9cd-44d1-ac5a-2b94a38add56"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648979696471,"stop":1648979699897}],"afters":[],"start":1648979696424,"stop":1648979760111}
